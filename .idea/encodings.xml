@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/roncoo-education-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roncoo-education-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roncoo-education-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roncoo-education-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roncoo-education-server-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roncoo-education-server-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roncoo-education-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roncoo-education-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roncoo-education-util/src/main/java" charset="UTF-8" />
+  </component>
+</project>

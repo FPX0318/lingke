@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lingke" />
+        <module name="roncoo-education-job" />
+        <module name="roncoo-education-system" />
+        <module name="roncoo-education-user" />
+        <module name="roncoo-education-gateway" />
+        <module name="roncoo-education-server-eureka" />
+        <module name="roncoo-education-server-config" />
+        <module name="roncoo-education-course" />
+        <module name="roncoo-education-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lingke" target="1.8" />
+      <module name="roncoo-education-course" target="1.8" />
+      <module name="roncoo-education-gateway" target="1.8" />
+      <module name="roncoo-education-job" target="1.8" />
+      <module name="roncoo-education-server-config" target="1.8" />
+      <module name="roncoo-education-server-eureka" target="1.8" />
+      <module name="roncoo-education-system" target="1.8" />
+      <module name="roncoo-education-user" target="1.8" />
+      <module name="roncoo-education-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lingke" options="-parameters" />
+      <module name="roncoo-education-course" options="-parameters" />
+      <module name="roncoo-education-gateway" options="-parameters" />
+      <module name="roncoo-education-job" options="-parameters" />
+      <module name="roncoo-education-server-config" options="-parameters" />
+      <module name="roncoo-education-server-eureka" options="-parameters" />
+      <module name="roncoo-education-system" options="-parameters" />
+      <module name="roncoo-education-user" options="-parameters" />
+      <module name="roncoo-education-util" options="-parameters" />
+    </option>
+  </component>
+</project>

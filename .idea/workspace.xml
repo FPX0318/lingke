@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc591692-2b7a-4b80-bd1d-5feeb646bd87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven\apache-maven\maven-repository" />
+        <option name="mavenHome" value="D:/apache-maven/apache-maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven\apache-maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bZU7hLvOuIcHfWvJj1OQNCyBz5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.RoncooEducationServerEurekaApplication">
+    <configuration name="LingkeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lingke" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sang.lingke.LingkeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoncooEducationCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="roncoo-education-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sang.roncooeducationcourse.RoncooEducationCourseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoncooEducationGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="roncoo-education-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sang.roncooeducationgateway.RoncooEducationGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoncooEducationJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="roncoo-education-job" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sang.roncooeducationjob.RoncooEducationJobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoncooEducationServerConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="roncoo-education-server-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sang.roncooeducationserverconfig.RoncooEducationServerConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoncooEducationServerEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="roncoo-education-server-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sang.roncooeducationservereureka.RoncooEducationServerEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoncooEducationSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="roncoo-education-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sang.roncooeducationsystem.RoncooEducationSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoncooEducationUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="roncoo-education-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sang.roncooeducationuser.RoncooEducationUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoncooEducationUtilApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="roncoo-education-util" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.sang.roncooeducationutil.RoncooEducationUtilApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc591692-2b7a-4b80-bd1d-5feeb646bd87" name="Default Changelist" comment="" />
+      <created>1588838943225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588838943225</updated>
+      <workItem from="1588838951309" duration="55000" />
+      <workItem from="1588840219302" duration="2290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1588842971926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588842971926" />
+    <state x="186" y="8" key="SettingsEditor" timestamp="1588842935373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588842935373" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1588840226162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588840226162" />
+    <state x="115" y="48" key="new project wizard" timestamp="1588840800447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="48" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588840800447" />
+  </component>
+</project>

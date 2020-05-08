@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc591692-2b7a-4b80-bd1d-5feeb646bd87" name="Default Changelist" comment="Idea整合领课教育">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fc591692-2b7a-4b80-bd1d-5feeb646bd87" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +135,7 @@
       <workItem from="1588838951309" duration="55000" />
       <workItem from="1588840219302" duration="3288000" />
       <workItem from="1588917867988" duration="3583000" />
+      <workItem from="1588922370816" duration="269000" />
     </task>
     <task id="LOCAL-00001" summary="Idea整合领课教育">
       <created>1588843205952</created>
@@ -154,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588921352164</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改">
+      <created>1588922504802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588922504803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,13 +166,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Idea整合领课教育" />
-    <option name="LAST_COMMIT_MESSAGE" value="Idea整合领课教育" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="182" y="0" key="CommitChangelistDialog2" timestamp="1588922500966">
+    <state x="182" y="0" key="CommitChangelistDialog2" timestamp="1588922666441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="182" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588922500966" />
+    <state x="182" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588922666441" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1588842971926">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -193,14 +198,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588922254296" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1588922253468">
+    <state x="186" y="0" key="SettingsEditor" timestamp="1588922656400">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588922253468" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1588921356194">
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588922656400" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1588922510522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588921356194" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588922510522" />
     <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1588922371077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

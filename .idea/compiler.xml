@@ -6,7 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="lingke" />
         <module name="roncoo-education-job" />
         <module name="roncoo-education-system" />
         <module name="roncoo-education-user" />
@@ -25,7 +24,7 @@
       <module name="roncoo-education-server-config" target="1.8" />
       <module name="roncoo-education-server-eureka" target="1.8" />
       <module name="roncoo-education-system" target="1.8" />
-      <module name="roncoo-education-user" target="1.8" />
+      <module name="roncoo-education-user" target="1.7" />
       <module name="roncoo-education-util" target="1.8" />
     </bytecodeTargetLevel>
   </component>

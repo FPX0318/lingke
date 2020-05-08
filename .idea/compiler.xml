@@ -6,14 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="roncoo-education-job" />
-        <module name="roncoo-education-system" />
-        <module name="roncoo-education-user" />
-        <module name="roncoo-education-gateway" />
-        <module name="roncoo-education-server-eureka" />
         <module name="roncoo-education-server-config" />
+        <module name="roncoo-education-job" />
+        <module name="roncoo-education-gateway" />
+        <module name="roncoo-education-system" />
+        <module name="roncoo-education-server-eureka" />
         <module name="roncoo-education-course" />
         <module name="roncoo-education-util" />
+      </profile>
+      <profile name="Annotation profile for lingke" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="roncoo-education-user" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
